@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6200232f-dc9e-4d0a-a98c-952fd19d543a" name="Default Changelist" comment="" />
+    <list default="true" id="6200232f-dc9e-4d0a-a98c-952fd19d543a" name="Default Changelist" comment="Generator">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +33,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kBOD96FavEMj5GHEhCSzDMRX3x" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,7 +45,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Geri tikrai/todolist" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dom" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -41,16 +58,44 @@
       <option name="presentableId" value="Default" />
       <updated>1605170396296</updated>
       <workItem from="1605170397438" duration="17635000" />
+      <workItem from="1605248118223" duration="13651000" />
     </task>
+    <task id="LOCAL−00001" summary="Generator">
+      <created>1605194362213</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1605194362213</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Generator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generator" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="777" y="119" key="FileChooserDialogImpl" timestamp="1605173555220">
+    <state x="777" y="119" key="FileChooserDialogImpl" timestamp="1605257222578">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="777" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605173555220" />
+    <state x="777" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605257222578" />
+    <state x="550" y="105" key="Vcs.Push.Dialog.v2" timestamp="1605194364825">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605194364825" />
   </component>
 </project>

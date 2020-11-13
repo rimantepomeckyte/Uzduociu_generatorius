@@ -8,15 +8,15 @@
     <title>Title</title>
 </head>
 <body>
-<div class="container">
-    <div class="row mt-4 mb-3 d-flex align-items-center">
-        <div class="col-2 mr-2"><p class="font-weight-bold text-center">Mokinių skaičius:</p></div>
-        <input id="ivestasMokSk" class="col-1 mr-2" type="number">
-        <div class="col-2 mr-2"><p class="font-weight-bold text-center">Užduočių skaičius:</p></div>
-        <input id="ivestasUzdSk" class="col-1 mr-2" type="number">
-        <input id="suzinokBtn" class="col-3" type="button" value="Sužinok savo užduotį">
-    </div>
-    <table id="table" class="table table-striped table-dark col-7">
+<div class="container" id="konteineris">
+    <form id="form" class="row 5 mt-4 mb-3 d-flex align-items-center">
+        <p class="col-lg-1 col-2 font-weight-bold text-center mr-2">Mokinių skaičius:</p>
+        <input id="ivestasMokSk" class="mr-2 col-lg-1 col-2" type="number">
+        <p class="col-lg-1 col-2 font-weight-bold text-center mr-2">Užduočių skaičius:</p>
+        <input id="ivestasUzdSk" class="col-lg-1 col-2 mr-2" type="number">
+        <input id="suzinokBtn" class="col-lg-2 col bg-info text-light" type="button" value="Sužinok savo užduotį">
+    </form>
+    <table id="table" class="table table-striped table-dark col-md-7">
         <thead>
         <tr>
             <th scope="col" class="text-center">Užduoties numeris</th>
